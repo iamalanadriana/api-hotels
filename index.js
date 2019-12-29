@@ -3,6 +3,7 @@ const path = require("path");
 const bodyParser = require('body-parser')
 const hotelsRouter = require('./routes/views/hotels');
 const hotelsApiRouter = require('./routes/api/hotels')
+const config = require('./config/index')
 
 // app
 const app = express();
@@ -24,6 +25,6 @@ app.get('/', function(req, res) {
 })
 
 // server
-const server = app.listen(8000, function() {
+const server = app.listen(config.config.port, function() {
   console.log(`Listening http://localhost:${server.address().port}`);
 });
