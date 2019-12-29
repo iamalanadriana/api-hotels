@@ -20,7 +20,7 @@ router.get('/', async function(req, res, next){
     }
 })
 
-router.get('/:hotelCity', async function(req, res, next){
+router.get('/cities/:hotelCity', async function(req, res, next){
     const { hotelCity } = req.params
     console.log('req', req.params)
 
