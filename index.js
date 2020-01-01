@@ -1,8 +1,8 @@
 const express = require("express");
 const path = require("path");
 const bodyParser = require('body-parser')
-const hotelsRouter = require('./routes/views/hotels');
-const hotelsApiRouter = require('./routes/api/hotels')
+const hotelsRouter = require('./src/routes/views/hotels');
+const hotelsApiRouter = require('./src/routes/api/hotels')
 const config = require('./config/index')
 
 // app
