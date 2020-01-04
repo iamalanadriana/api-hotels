@@ -1,15 +1,18 @@
 # api-hotels
 Esta API fue creada con el fin de implementarla en una aplicacion movil
 
-# Inicio
-# clon repo <br />
+### Inicio
+
+```bash
+# clonacion de repositorio
 https://github.com/iamalanadriana/api-hotels/tree/final
 
-# install the dependencies with npm <br />
+# Instalacion de dependencias npm
 npm install
 
-# start dev server (npm run dev) <br />
+# Iniciando Servidor (npm run dev)
 npm start
+```
 
 Ir a [http://localhost:8000](http://localhost:8000) en su navegador.
 
