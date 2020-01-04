@@ -1,9 +1,6 @@
 # api-hotels
 Esta API fue creada con el fin de implementarla en una aplicacion movil
 
-# api-hotels
-Esta API fue creada con el fin de implementarla en una aplicacion movil
-
 # Inicio
 # clon repo <br />
 https://github.com/iamalanadriana/api-hotels/tree/final
