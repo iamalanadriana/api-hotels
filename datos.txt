@@ -1,8 +1,0 @@
-npm i -S pug
-
-contraseña de db gYwFQmdBaDuKddVW
-usuario db_user_hotels
-
-nombre de db db_searchhotels
-
-nombre collection hotels

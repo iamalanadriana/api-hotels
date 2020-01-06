@@ -88,5 +88,4 @@ El modelo para nuestros objetos de hotel se define de la siguiente manera:
 ## Despliegue
 
 Aqui encontraremos una demostracion del servicion en Heroku:
-
 > [https://morning-hollows-96494.herokuapp.com](https://morning-hollows-96494.herokuapp.com/hotels)
