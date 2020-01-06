@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # api-hotels
 Esta API fue creada con el fin de implementarla en una aplicacion movil
 
@@ -90,3 +91,7 @@ El modelo para nuestros objetos de hotel se define de la siguiente manera:
 Aqui encontraremos una demostracion del servicion en Heroku:
 
 > [https://morning-hollows-96494.herokuapp.com](https://morning-hollows-96494.herokuapp.com/hotels)
+=======
+# api-hotels
+Esta API fue creada con el fin de implementarla en una aplicacion movil
+>>>>>>> e5e9aa87de63035324a6eaa15db4a16b1f185a21
