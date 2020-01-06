@@ -5,7 +5,7 @@ Esta API fue creada con el fin de implementarla en una aplicacion movil
 
 ```bash
 # clonacion de repositorio
-https://github.com/iamalanadriana/api-hotels/tree/final
+https://github.com/iamalanadriana/api-hotels
 
 # Instalacion de dependencias npm
 npm install
